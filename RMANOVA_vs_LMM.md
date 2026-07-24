@@ -2,6 +2,7 @@
 # RMANOVA-VS-LMM
 
 The why behind the use of **Linear Mixed Models (LMM)** compared to **Repeated Measures Analysis of Variance (RMANOVA)**.
+> **Note:** This dataset is completely synthetic, contains no real human subject information, and does not violate HIPAA regulations.
 
 ## Project Overview
 With a pilot sample of 10 individuals, this project uses LMM and RMANOVA to identify, assess, and determine the rationale behind the preference for LMM. It specifically explores how this choice affects our understanding of data progression for patients within a clinical trial.
