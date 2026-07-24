@@ -19,4 +19,4 @@ The practical distinctions between these two models can be likened to how two di
 
 *   **Handling Missing Data:** In RMANOVA, the process of exclusion is called **listwise deletion**, which completely deletes a participant's data if they miss a single event. LMM avoids this, conserving data collection and drastically reducing attrition losses.
 *   **Point-Specific Estimates:** LMM can track specific, time-point estimates over time, whereas RMANOVA focuses primarily on the overall global effect.
-*   **Covariance Flexibility:** LMM requires no rigid assumptions of covariance, providing the flexibility to choose the best-fitting model structure for your specific data (e.g., **AICC, CS, UN, AR(1)**)..
+*   **Covariance Flexibility:** LMM requires no rigid assumptions of covariance, providing the flexibility to choose the best-fitting model structure for your specific data (e.g., **AICC, CS, UN, AR(1)**).
